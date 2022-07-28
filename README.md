@@ -1,0 +1,2 @@
+# QRcodeGen
+QRcodeGen genrator project
